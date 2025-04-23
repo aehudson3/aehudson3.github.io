@@ -17,16 +17,10 @@ I am currently enrolled at the University of Central Oklahoma and seeking a degr
 - Full Stack w/JavaScript
   - Progressing through [Full Stack Open (FSO)](https://fullstackopen.com/en/about) offered by the University of Helsinki
     - Considering [ElysiaJS](https://elysiajs.com/) upon completion of FSO
-- Exploring cross-platform development<br/>
-  - Flutter<br/>
-    - Going through [Flutter In Action](https://www.manning.com/books/flutter-in-action)
-    - [Official Learning Documentation](https://flutter.dev/learn)
-  - React Native
-    - [Mobile App Development Course with React Native, Supabase, Next.js](https://www.freecodecamp.org/news/mobile-app-development-course-with-react-native-supabase-nextjs/)
-    - [Official Learning Documentation](https://reactnative.dev/docs/getting-started)
 - Data Exploration, Discovery & Visualization
-  - D3.js
-    - Going through [Data Visualization with D3.js](https://www.freecodecamp.org/news/data-visualizatoin-with-d3/)
+  - D3.js & Observable Plot
+    - [Data Visualization with D3.js](https://www.freecodecamp.org/news/data-visualizatoin-with-d3/)
+    - [Why Observable Plot](https://observablehq.com/plot/why-plot)
 - Data Structures & Algorithms
   - Building upon previous coursework with the [Data Structures and Program Design in C++](https://isbnsearch.org/isbn/9780137689958) textbook<br/>
 
@@ -37,7 +31,7 @@ I am currently enrolled at the University of Central Oklahoma and seeking a degr
 - Preparing for Certifications:
   - [Linux Foundation Certified IT Associate](https://training.linuxfoundation.org/certification/certified-it-associate/) (LFCA)
   - [Linux Foundation Certified System Administrator](https://training.linuxfoundation.org/certification/linux-foundation-certified-sysadmin-lfcs/) (LFCS)
-  - [Kubestronaut](https://training.linuxfoundation.org/certification/kubestronaut-bundle/) (KCNA + KCSA + CKA + CKAD + CKS)<br/>
+  - Relevant areas from [Kubestronaut](https://training.linuxfoundation.org/certification/kubestronaut-bundle/) (KCNA + KCSA + CKA + CKAD + CKS)<br/>
   
 # Get in contact with me via a [<ins>email</ins>](mailto:career@watchtower.slmail.me&subject=Andrew%20Let's%20Talk%20Software%20Engineering).
 I would love to hear from you if you want to discuss anything related to 💻 Software Engineering.
